@@ -161,5 +161,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE par
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato:
-- **Email:** suporte@semi.com.br
-- **GitHub:** [Seu Usuário GitHub](https://github.com/seu-usuario)
+- **Email:** carlos@crdwebcode.com.br
+- **GitHub:** [Seu Usuário GitHub](https://github.com/crdwebcode)
